@@ -50,7 +50,7 @@ h1{
     margin: 0 auto;
     flex-wrap: wrap;
 }
-.sign{
+.Sign{
     width: 100%;
     padding: center;
     color: #ffff;
@@ -61,16 +61,7 @@ h1{
     border-radius: 30px;
     width: 340px;
     height: 44px;
-}
-.email{
-    width: 340px;
-    border: none;
-    margin-top: 29px;
-    background:rgba(146, 145, 145, 1);
-    margin-bottom: 15px;
-    border-radius: 30px;
-    width: 340px;
-    height: 44px;
+    margin-top: 15px;
 }
 .ButtomPanel{
     width: 340px; 
@@ -132,6 +123,7 @@ color:rgba(21, 52, 22, 1);
     flex-wrap: wrap;
     margin: 0 auto;
     margin-top: 20px;
+    cursor: pointer;
 }
 .inst{
     display: flex;
